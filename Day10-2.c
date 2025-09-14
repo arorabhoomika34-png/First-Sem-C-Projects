@@ -27,12 +27,10 @@ int main(){
         case 7:
             printf("Saturday\n");
             break;
-        case 8:      
-            printf("Sunday\n");
-            break;
     default:
     printf("Invalid input ");       
     } 
     return 0;
 
 }
+
