@@ -28,10 +28,11 @@ int main(){
             printf("Saturday\n");
             break;
         case 8:      
-            printf("Wednesday\n");
+            printf("Sunday\n");
             break;
     default:
     printf("Invalid input ");       
     } 
     return 0;
+
 }
