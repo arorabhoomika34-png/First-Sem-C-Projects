@@ -18,7 +18,7 @@ int main() {
         return 0;
     }
 
-    int max_sum = 0, window-sum=0;
+    int max_sum = 0, window_sum=0;
     for (int i = 0; i < k; i++) {
         window_sum += arr[i];
     }
@@ -33,3 +33,4 @@ int main() {
 
     return 0;
 }
+
