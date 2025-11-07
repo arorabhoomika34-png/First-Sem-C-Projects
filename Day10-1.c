@@ -14,4 +14,5 @@ int main(){
         printf("Scalene triangle");
     }
     return 0;
+
 }
