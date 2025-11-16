@@ -1,4 +1,4 @@
-// Q31: Write a program to take a number as input and print its equivalent binary representation.//
+// Q31: Write a program to check a number is pallindrome.//
 #include <stdio.h>
 int main()
 {
@@ -22,4 +22,5 @@ int main()
         }
     
     return 0;
+
 }
