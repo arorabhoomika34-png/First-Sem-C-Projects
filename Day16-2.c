@@ -1,4 +1,4 @@
-//Q31: Write a program to take a number as input and print its equivalent binary representation.//
+//Q31: Write a program to check a number is Armstrong.//
 #include <stdio.h>
 int main(){
     int n,originalnum,result=0;
@@ -17,4 +17,5 @@ int main(){
         printf("Number is not armstrong");
     }
     return 0;
+
 }
